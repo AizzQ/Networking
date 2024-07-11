@@ -53,7 +53,7 @@ AS 400 has a lateral peering relationship with AS 300.
 ○ It has a public IP address from the IP address pool of AS400
 ○ It is the Access Gateway for the LAN attached to it
 ■ Configure dynamic NAT
-■ Configure OpenVPN→ see later dedicated section
+■ Configure OpenVPN
 
 Client 400
 ● This is a simple LAN device with a default route through R402.
