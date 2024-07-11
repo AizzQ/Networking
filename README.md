@@ -1,3 +1,5 @@
+Prerequisites: GNS-3, Vm-Box, cumulus linux, 4 x lubuntu for data center
+
 AS100
 ● AS100 is a transit Autonomous System providing network access to two customers:
 AS200 and AS300
